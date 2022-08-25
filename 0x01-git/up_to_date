@@ -1,1 +1,1 @@
-Command used to get all changes: git fetch
+git pull
